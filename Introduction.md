@@ -1,4 +1,5 @@
-![Powershell Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1686324587003/a32abf03-2d07-4ef3-895c-005d5dc4ded9.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+![Powershell Background](https://github.com/user-attachments/assets/6f709e38-1095-405a-810e-1447707edfbb)
+
 # Introduction to Powershell
 
 ## What is Powershell?
