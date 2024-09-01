@@ -3,4 +3,4 @@
 
 ## Why should you learn Powershell?
 
-## 10 Powerful Use cases of Powershell
+## 10 Powerful Use Cases of Powershell
